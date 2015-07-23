@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clawideas_artsin",
+  "name": "Claw's Armor Ideas Mod",
+  "description": "",
+  "version": "@VERSION@",
+  "mcversion": "@MC_VERSION@",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ArtSin"],
+  "credits": "Claw",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

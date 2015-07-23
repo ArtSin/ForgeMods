@@ -1,0 +1,6 @@
+{
+  "parent":"clawideas_artsin:item/standardItem",
+  "textures": {
+    "layer0":"clawideas_artsin:items/emeraldShovel"
+  }
+}
